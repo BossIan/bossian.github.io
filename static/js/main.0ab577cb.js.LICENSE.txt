@@ -1,0 +1,123 @@
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
+ * @license  MIT
+ */
+
+/*! Bundled license information:
+
+buffer/index.js:
+  (*!
+   * The buffer module from node.js, for the browser.
+   *
+   * @author   Feross Aboukhadijeh <https://feross.org>
+   * @license  MIT
+   *)
+
+@noble/curves/esm/abstract/edwards.js:
+  (*! noble-curves - MIT License (c) 2022 Paul Miller (paulmillr.com) *)
+
+@noble/curves/esm/ed25519.js:
+  (*! noble-curves - MIT License (c) 2022 Paul Miller (paulmillr.com) *)
+*/
+
+/*! Bundled license information:
+
+ieee754/index.js:
+  (*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> *)
+
+@noble/hashes/esm/utils.js:
+  (*! noble-hashes - MIT License (c) 2022 Paul Miller (paulmillr.com) *)
+
+@noble/curves/esm/abstract/utils.js:
+  (*! noble-curves - MIT License (c) 2022 Paul Miller (paulmillr.com) *)
+
+@noble/curves/esm/abstract/modular.js:
+  (*! noble-curves - MIT License (c) 2022 Paul Miller (paulmillr.com) *)
+
+@noble/curves/esm/abstract/curve.js:
+  (*! noble-curves - MIT License (c) 2022 Paul Miller (paulmillr.com) *)
+
+@noble/curves/esm/abstract/weierstrass.js:
+  (*! noble-curves - MIT License (c) 2022 Paul Miller (paulmillr.com) *)
+
+@noble/curves/esm/abstract/bls.js:
+  (*! noble-curves - MIT License (c) 2022 Paul Miller (paulmillr.com) *)
+
+@noble/curves/esm/bls12-381.js:
+  (*! noble-curves - MIT License (c) 2022 Paul Miller (paulmillr.com) *)
+*/
+
+/**
+ * @license React
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @remix-run/router v1.19.2
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
+ * React Router DOM v6.26.2
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
+ * React Router v6.26.2
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
